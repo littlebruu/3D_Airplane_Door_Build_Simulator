@@ -5,6 +5,10 @@ Esse é um repositório referente ao curso de Interação Humano Computador (IHC
 ### Proposta
 A proposta deste projeto é desenvolver um programa em Realidade Virtual que seja capaz de simular a montagem de um modelo de porta de aeronave, no estilo passo-a-passo.
 
+<p align="center">
+<a href="https://airplane-build-latecoere.glitch.me"><img src="https://github.com/littlebruu/3D_Airplane_Door_Build_Simulator/blob/master/Imagens/Sprint%2001-%20Utilizando%20modelo%20estruturado.gif"  target="_blank" title="Enjoy ▶" align="center"></a>
+</p>
+
 ### Público alvo
 O projeto é voltado para o setor de montagem, para o treinamento de funcionários de uma empresa de fabricação de peças aeronáuticas, auxiliando os funcionários a entender o processo de montagem de uma porta de avião.
 
@@ -25,8 +29,9 @@ Plataforma utilizada para o inicio do desenvolvimento do projeto utilizando as l
 * [SPRINT 03](https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/tree/master/Sprint%2003)
 * [SPRINT 04](https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/tree/master/Sprint%2004)
 ------------------------------------------------------
+
 ### Acesse nosso projeto
-<a href="https://airplane-build-latecoere.glitch.me"><img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/botao_projeto.gif" width="19.5%;" target="_blank" title="Acessar treinamento"></a>
+<a href="https://airplane-build-latecoere.glitch.me"><img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/botao_projeto.gif" width="140px;" height="140px" target="_blank" title="Acessar treinamento"></a>
 <a href="https://codepen.io/py_zza/pen/MWaqQeK?editors=1010"><img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/botao_codepen.png" width="19.5%;" title="Visualizar projeto no Codepen" target="_blank"></a>
 <a href="https://glitch.com/~airplane-build-latecoere"><img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/botao_glitch.png" width="19.5%;" title="Visualizar projeto no Glitch" target="_blank"></a>
 
